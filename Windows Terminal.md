@@ -8,6 +8,9 @@
 * https://github.com/devblackops/Terminal-Icons    Extra Icons
 * https://gitforwindows.org/   Git Bash
 * https://www.nerdfonts.com/font-downloads              FONTS FOR TERMINAL
+* https://www.python.org/downloads/windows/ Python
+
+
 
 # Powershell Setup:
 
