@@ -1,20 +1,20 @@
 
-#Links:
+# Links:
 
-https://www.youtube.com/watch?v=VT2L1SXFq9U&t=3s
+* https://www.youtube.com/watch?v=VT2L1SXFq9U&t=3s
 
-https://ohmyposh.dev/
-https://github.com/PowerShell/PSReadLine Commands: https://learn.microsoft.com/en-us/powershell/module/psreadline/about/about_psreadline_functions?view=powershell-7.2
-https://github.com/devblackops/Terminal-Icons 
-https://gitforwindows.org/
+* https://ohmyposh.dev/
+* https://github.com/PowerShell/PSReadLine  Commands: https://learn.microsoft.com/en-us/powershell/module/psreadline/about/about_psreadline_functions?view=powershell-7.2
+* https://github.com/devblackops/Terminal-Icons 
+* https://gitforwindows.org/
 
-#Powershell Setup:
+# Powershell Setup:
 
 Install-Module -Name Terminal-Icons -Repository PSGallery 
 Install-Module PSReadLine -AllowPrerelease -Force
 Install-Module z -AllowClobber
 
-#Add to Profile 
+# Add to Profile 
 			"C:\Users\CassT\Documents\PowerShell\Microsoft.PowerShell_profile.ps1"
 
 
@@ -30,7 +30,7 @@ oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH/montys.omp.json" | Invoke-E
 
 
 
-#WSL2 For Linux
+# WSL2 For Linux
 
 wsl
 
