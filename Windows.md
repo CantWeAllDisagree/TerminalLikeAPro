@@ -19,7 +19,7 @@
 * Notepad++: https://notepad-plus-plus.org/downloads/
 
 # Dev
-* Visual Studio & Code: https://visualstudio.microsoft.com/
+* Visual Studio & Code Preview: https://visualstudio.microsoft.com/
 * DevkitPRO: https://devkitpro.org/ | https://github.com/devkitPro
 
 

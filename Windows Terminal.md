@@ -1,8 +1,8 @@
 
 # Links:
 
-* https://www.youtube.com/watch?v=VT2L1SXFq9U&t=3s
-
+* Customize Terminal Video: https://www.youtube.com/watch?v=VT2L1SXFq9U&t=3s
+* Powershell 7 Preview: https://github.com/PowerShell/PowerShell/releases
 * https://ohmyposh.dev/
 * https://github.com/PowerShell/PSReadLine  Commands: https://learn.microsoft.com/en-us/powershell/module/psreadline/about/about_psreadline_functions?view=powershell-7.2
 * https://github.com/devblackops/Terminal-Icons 
