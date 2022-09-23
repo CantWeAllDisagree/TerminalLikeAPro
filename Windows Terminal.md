@@ -15,7 +15,7 @@
 					Install-Module z -AllowClobber
 
 # Add to Profile 
-			"C:\Users\CassT\Documents\PowerShell\Microsoft.PowerShell_profile.ps1"
+"C:\Users\CassT\Documents\PowerShell\Microsoft.PowerShell_profile.ps1"
 
 
 				oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH/montys.omp.json" | Invoke-Expression
