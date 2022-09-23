@@ -1,7 +1,7 @@
 # List Of Programs 
 
 * Waterfox: https://www.waterfox.net/
-* Photoshop, Premiere Pro and After Effects
+* FL Studio, Photoshop, Premiere Pro and After Effects included in Cracked.7z
 * Tutanota Desktop: https://tutanota.com/
 * Discord Canary: https://discordapp.com/api/download/canary?platform=win
 * Better Discord: https://betterdiscord.app/
