@@ -1,6 +1,7 @@
 # PersonalWindowsSetup
 
-Programs and Software
+                                  Programs and Software
 https://github.com/CantWeAllDisagree/PersonalWindowsSetup/blob/main/Windows.md
 
-Terminal Customization
+                                  Terminal Customization
+https://github.com/CantWeAllDisagree/PersonalWindowsSetup/blob/main/Windows%20Terminal.md
