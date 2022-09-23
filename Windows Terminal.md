@@ -3,10 +3,11 @@
 
 * Customize Terminal Video: https://www.youtube.com/watch?v=VT2L1SXFq9U&t=3s
 * Powershell 7 Preview: https://github.com/PowerShell/PowerShell/releases
-* https://ohmyposh.dev/
+* https://ohmyposh.dev/   Oh My Posh Prompt Engine
 * https://github.com/PowerShell/PSReadLine  Commands: https://learn.microsoft.com/en-us/powershell/module/psreadline/about/about_psreadline_functions?view=powershell-7.2
-* https://github.com/devblackops/Terminal-Icons 
-* https://gitforwindows.org/
+* https://github.com/devblackops/Terminal-Icons    Extra Icons
+* https://gitforwindows.org/   Git Bash
+* https://www.nerdfonts.com/font-downloads              FONTS FOR TERMINAL
 
 # Powershell Setup:
 
@@ -32,7 +33,21 @@
 
 # WSL2 For Linux
 
-wsl
+
+*                            wsl --list --online
+
+*                            wsl --install -d [DISTRO]
+
+*                            wsl --set-default-version 2
+
+*                            wsl -s [DISTRO] 2
+
+
+
+
+
+
+
 
 When using oh-my-posh in Windows and the WSL, know that you can share your theme with the WSL by pointing to a theme in your Windows user's home folder.
 
