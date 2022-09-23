@@ -2,7 +2,6 @@
 
 * Waterfox: https://www.waterfox.net/
 * Photoshop, Premiere Pro and After Effects
-* Repo Link:
 * Tutanota Desktop: https://tutanota.com/
 * Discord Canary: https://discordapp.com/api/download/canary?platform=win
 * Better Discord: https://betterdiscord.app/
