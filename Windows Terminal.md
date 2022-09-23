@@ -10,15 +10,15 @@
 
 # Powershell Setup:
 
-Install-Module -Name Terminal-Icons -Repository PSGallery 
-Install-Module PSReadLine -AllowPrerelease -Force
-Install-Module z -AllowClobber
+					Install-Module -Name Terminal-Icons -Repository PSGallery 
+					Install-Module PSReadLine -AllowPrerelease -Force
+					Install-Module z -AllowClobber
 
 # Add to Profile 
 			"C:\Users\CassT\Documents\PowerShell\Microsoft.PowerShell_profile.ps1"
 
 
-oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH/montys.omp.json" | Invoke-Expression
+				oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH/montys.omp.json" | Invoke-Expression
             if ($host.Name -eq 'ConsoleHost')
             {
             Import-Module -Name Terminal-Icons
