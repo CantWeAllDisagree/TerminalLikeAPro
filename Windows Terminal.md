@@ -9,6 +9,7 @@
 * https://gitforwindows.org/   Git Bash
 * https://www.nerdfonts.com/font-downloads              FONTS FOR TERMINAL
 * https://www.python.org/downloads/windows/ Python
+* https://github.com/dahlbyk/posh-git 	Posh Git
 
 
 
@@ -25,7 +26,6 @@
 				oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH/montys.omp.json" | Invoke-Expression
             if ($host.Name -eq 'ConsoleHost')
             {
-	    Import-Module posh-git.
             Import-Module -Name Terminal-Icons
             Import-Module PSReadLine
             Set-PSReadLineOption -EditMode Windows
