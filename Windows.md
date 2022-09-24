@@ -29,6 +29,8 @@
 * Armoury Crate: https://www.asus.com/supportonly/Armoury%20Crate/HelpDesk_Download/
 
 
+# Customization for Windows
+Mica for Everyone: https://github.com/MicaForEveryone/MicaForEveryone/releases
 
 
 
