@@ -25,6 +25,7 @@
 				oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH/montys.omp.json" | Invoke-Expression
             if ($host.Name -eq 'ConsoleHost')
             {
+	    Import-Module posh-git.
             Import-Module -Name Terminal-Icons
             Import-Module PSReadLine
             Set-PSReadLineOption -EditMode Windows
