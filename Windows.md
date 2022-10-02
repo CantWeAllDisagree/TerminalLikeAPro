@@ -31,10 +31,10 @@
 
 
 # Customization for Windows
-Start All Back: https://www.startallback.com/
-UltraUXThemePatcher: https://mhoefs.eu/software_uxtheme.php?lang=en
-Win Theme Tool: https://github.com/namazso/SecureUxTheme
-Rainmeter: https://www.rainmeter.net/
+* Start All Back: https://www.startallback.com/
+* UltraUXThemePatcher: https://mhoefs.eu/software_uxtheme.php?lang=en
+* Win Theme Tool: https://github.com/namazso/SecureUxTheme
+* Rainmeter: https://www.rainmeter.net/
 
 
 
