@@ -11,8 +11,9 @@
 * https://github.com/dahlbyk/posh-git 	Posh Git
 
 # Python
-https://www.python.org/downloads/windows/ 
-Switch Python Script Requeriments 
+* https://www.python.org/downloads/windows/ 
+
+	Switch Python Script Requeriments 
 
 					pip install ips.py
 					pip install PIL-Tools
