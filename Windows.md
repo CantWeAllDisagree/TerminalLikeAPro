@@ -18,6 +18,7 @@
 * VLC: https://www.videolan.org/vlc/
 * Notepad++: https://notepad-plus-plus.org/downloads/
 * 7zip: https://www.7-zip.org/
+* Stremio: https://www.stremio.com/
 
 # Dev
 * Visual Studio & Code Preview: https://visualstudio.microsoft.com/
