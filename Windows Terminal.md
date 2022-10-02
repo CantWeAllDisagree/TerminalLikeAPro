@@ -10,8 +10,8 @@
 * https://www.nerdfonts.com/font-downloads              FONTS FOR TERMINAL
 * https://github.com/dahlbyk/posh-git 	Posh Git
 
-# https://www.python.org/downloads/windows/ Python
-
+# Python
+https://www.python.org/downloads/windows/ 
 Switch Python Script Requeriments 
 
 					pip install ips.py
