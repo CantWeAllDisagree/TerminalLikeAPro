@@ -8,10 +8,14 @@
 * https://github.com/devblackops/Terminal-Icons    Extra Icons
 * https://gitforwindows.org/   Git Bash
 * https://www.nerdfonts.com/font-downloads              FONTS FOR TERMINAL
-* https://www.python.org/downloads/windows/ Python
 * https://github.com/dahlbyk/posh-git 	Posh Git
 
+* https://www.python.org/downloads/windows/ Python
 
+Switch Python Script Requeriments 
+
+					pip install ips.py
+					pip install PIL-Tools
 
 # Powershell Setup:
 
