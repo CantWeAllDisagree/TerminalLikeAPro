@@ -10,7 +10,7 @@
 * https://www.nerdfonts.com/font-downloads              FONTS FOR TERMINAL
 * https://github.com/dahlbyk/posh-git 	Posh Git
 
-* https://www.python.org/downloads/windows/ Python
+# https://www.python.org/downloads/windows/ Python
 
 Switch Python Script Requeriments 
 
