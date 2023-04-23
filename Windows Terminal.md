@@ -5,7 +5,7 @@
 * Terminal Peview: https://apps.microsoft.com/store/detail/windows-terminal-preview/9N8G5RFZ9XK3?hl=en-us&gl=us
 * Powershell 7 Preview: https://github.com/PowerShell/PowerShell/releases
 * Oh My Posh https://ohmyposh.dev/    
-* Posh Git: https://github.com/dahlbyk/posh-git
+* Posh Git: https://github.com/dahlbyk/posh-git - Has tutorial for both Powershell and CMD
 * PSReadLine: https://github.com/PowerShell/PSReadLine  
 * Commands: https://learn.microsoft.com/en-us/powershell/module/psreadline/about/about_psreadline_functions?view=powershell-7.2
 * Extra Icons: https://github.com/devblackops/Terminal-Icons    
@@ -20,6 +20,11 @@ Switch Python Script Requeriments
 
 					pip install ips.py
 					pip install PIL-Tools
+
+# Clink for CMD
+
+						clink autorun install -- --quiet
+
 
 # Powershell Setup:
 
