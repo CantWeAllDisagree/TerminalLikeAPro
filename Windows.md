@@ -1,22 +1,17 @@
 # List Of Programs 
 
 * Waterfox: https://www.waterfox.net/
-* FL Studio, Photoshop, Premiere Pro and After Effects included in Cracked.7z
 * Tutanota Desktop: https://tutanota.com/
 * Discord Canary: https://discordapp.com/api/download/canary?platform=win
 * Better Discord: https://betterdiscord.app/
 * Steam: https://store.steampowered.com/
-* Github Desktop: https://desktop.github.com/
 * Audacity: https://www.audacityteam.org/
 * PowerToys: https://github.com/microsoft/PowerToys
 * Google Drive: https://www.google.com/drive/download/
 * Nicotine+: https://nicotine-plus.org/
-* rawtherapee: https://rawtherapee.com/
 * Gimp: https://www.gimp.org/
-* Jdownloader2: https://jdownloader.org/
 * KeePassXC: https://keepassxc.org/
 * VLC: https://www.videolan.org/vlc/
-* Notepad++: https://notepad-plus-plus.org/downloads/
 * 7zip: https://www.7-zip.org/
 * Stremio: https://www.stremio.com/
 
@@ -35,7 +30,6 @@
 * UltraUXThemePatcher: https://mhoefs.eu/software_uxtheme.php?lang=en
 * Current Theme: https://www.deviantart.com/niivu/art/BIB-for-Windows-11-22H2-931572890
 * Win Theme Tool: https://github.com/namazso/SecureUxTheme
-* Rainmeter: https://www.rainmeter.net/
 
 
 
