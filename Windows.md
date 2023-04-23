@@ -14,10 +14,20 @@
 * VLC: https://www.videolan.org/vlc/
 * 7zip: https://www.7-zip.org/
 * Stremio: https://www.stremio.com/
+* Rufus: https://rufus.ie/en/
+* ATLauncher: https://atlauncher.com/
+* Input Director: https://inputdirector.com/
+* OBS: https://obsproject.com/
+* Rust Desk: https://rustdesk.com/
+
 
 # Dev
 * Visual Studio & Code Preview: https://visualstudio.microsoft.com/
 * DevkitPRO: https://devkitpro.org/ | https://github.com/devkitPro
+* Blockbench: https://www.blockbench.net/
+* Blender: https://www.blender.org/
+* NBTexplorer https://sourceforge.net/projects/nbtexplorer.mirror/
+
 
 
 # Drivers
