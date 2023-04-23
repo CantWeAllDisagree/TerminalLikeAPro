@@ -6,6 +6,7 @@
 
 Has Support for individual Font's per Terminal, GIT, WSL and most other terminals. Cmder can even be used with Terminal Preview
 
+* Theme for Preview: https://github.com/yosukes-dev/one-dark-windows-terminal
 * Powershell 7 Preview: https://github.com/PowerShell/PowerShell/releases
 * Oh My Posh https://ohmyposh.dev/    
 * Posh Git: https://github.com/dahlbyk/posh-git - Has tutorial for both Powershell and CMD
