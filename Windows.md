@@ -19,6 +19,7 @@
 * Input Director: https://inputdirector.com/
 * OBS: https://obsproject.com/
 * Rust Desk: https://rustdesk.com/
+* czkawka: https://github.com/qarmin/czkawka/releases
 
 
 # Dev
