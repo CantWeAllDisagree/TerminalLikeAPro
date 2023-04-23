@@ -19,13 +19,11 @@
 * Input Director: https://inputdirector.com/
 * OBS: https://obsproject.com/
 * Rust Desk: https://rustdesk.com/
-* czkawka: https://github.com/qarmin/czkawka/releases
 * Debloat: https://github.com/LeDragoX/Win-Debloat-Tools -Removes edge until next update
 
 
 # Dev
 * Visual Studio & Code Preview: https://visualstudio.microsoft.com/
-* Shell: https://nilesoft.org/download
 * DevkitPRO: https://devkitpro.org/ | https://github.com/devkitPro
 * Blockbench: https://www.blockbench.net/
 * Blender: https://www.blender.org/
