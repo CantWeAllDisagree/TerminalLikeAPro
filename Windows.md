@@ -20,6 +20,7 @@
 * OBS: https://obsproject.com/
 * Rust Desk: https://rustdesk.com/
 * czkawka: https://github.com/qarmin/czkawka/releases
+* Debloat: https://github.com/LeDragoX/Win-Debloat-Tools -Removes edge until next update
 
 
 # Dev
