@@ -2,7 +2,10 @@
 # Links:
 
 * Customize Terminal Video: https://www.youtube.com/watch?v=VT2L1SXFq9U&t=3s
-* Terminal Peview: https://apps.microsoft.com/store/detail/windows-terminal-preview/9N8G5RFZ9XK3?hl=en-us&gl=us
+* Terminal Peview: https://apps.microsoft.com/store/detail/windows-terminal-preview/9N8G5RFZ9XK3?hl=en-us&gl=us 
+
+Has Support for individual Font's per Terminal, GIT, WSL and most other terminals. Cmder can even be used with Terminal Preview
+
 * Powershell 7 Preview: https://github.com/PowerShell/PowerShell/releases
 * Oh My Posh https://ohmyposh.dev/    
 * Posh Git: https://github.com/dahlbyk/posh-git - Has tutorial for both Powershell and CMD
