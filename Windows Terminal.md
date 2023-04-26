@@ -25,7 +25,8 @@ Switch Python Script Requeriments
 					pip install ips.py
 					pip install PIL-Tools
 
-# Clink for CMD
+# [Clink for CMD](https://github.com/chrisant996/clink/releases)
+
 
 						clink autorun install -- --quiet
 
