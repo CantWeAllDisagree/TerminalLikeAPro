@@ -34,6 +34,7 @@
 # Drivers
 * Nvidia Geforce Experience: https://www.nvidia.com/en-us/geforce/geforce-experience/
 * Armoury Crate: https://www.asus.com/supportonly/Armoury%20Crate/HelpDesk_Download/
+* MadCatz Rat8+: https://www.madcatz.com/En/Product/Detail/rat8-plus#download
 
 
 # Customization for Windows
