@@ -20,11 +20,6 @@ Has Support for individual Font's per Terminal, GIT, WSL and most other terminal
 # Python
 * https://www.python.org/downloads/windows/ 
 
-Switch Python Script Requeriments 
-
-					pip install ips.py
-					pip install PIL-Tools
-
 # [Clink for CMD](https://github.com/chrisant996/clink/releases)
 
 
