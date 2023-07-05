@@ -3,10 +3,12 @@
 
 * Theme for Preview: https://github.com/yosukes-dev/one-dark-windows-terminal
 * Powershell 7 Preview: https://github.com/PowerShell/PowerShell/releases
+* VSCode Insiders: https://code.visualstudio.com/insiders/
+
+
 * Oh My Posh https://ohmyposh.dev/    
 * Posh Git: https://github.com/dahlbyk/posh-git - Has tutorial for both Powershell and CMD
 * PSReadLine: https://github.com/PowerShell/PSReadLine  
-* Commands: https://learn.microsoft.com/en-us/powershell/module/psreadline/about/about_psreadline_functions?view=powershell-7.2
 * Extra Icons: https://github.com/devblackops/Terminal-Icons    
 * Git Bash: https://gitforwindows.org/  
 * FONTS FOR TERMINAL: https://www.nerdfonts.com/font-downloads             
