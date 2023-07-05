@@ -1,10 +1,5 @@
+# Terminal Like A Pro
 
-# Links:
-
-* Customize Terminal Video: https://www.youtube.com/watch?v=VT2L1SXFq9U&t=3s
-* Terminal Peview: https://apps.microsoft.com/store/detail/windows-terminal-preview/9N8G5RFZ9XK3?hl=en-us&gl=us 
-
-Has Support for individual Font's per Terminal, GIT, WSL and most other terminals. Cmder can even be used with Terminal Preview
 
 * Theme for Preview: https://github.com/yosukes-dev/one-dark-windows-terminal
 * Powershell 7 Preview: https://github.com/PowerShell/PowerShell/releases
@@ -15,10 +10,7 @@ Has Support for individual Font's per Terminal, GIT, WSL and most other terminal
 * Extra Icons: https://github.com/devblackops/Terminal-Icons    
 * Git Bash: https://gitforwindows.org/  
 * FONTS FOR TERMINAL: https://www.nerdfonts.com/font-downloads             
- 	
 
-# Python
-* https://www.python.org/downloads/windows/ 
 
 # [Clink for CMD](https://github.com/chrisant996/clink/releases)
 
@@ -30,22 +22,9 @@ Has Support for individual Font's per Terminal, GIT, WSL and most other terminal
 
 					Install-Module -Name Terminal-Icons -Repository PSGallery 
 					Install-Module PSReadLine -AllowPrerelease -Force
-					Install-Module z -AllowClobber
 
 # Add to Profile 
 "C:\Users\CassT\Documents\PowerShell\Microsoft.PowerShell_profile.ps1"
-
-
-			oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH/montys.omp.json" | Invoke-Expression
-           			if ($host.Name -eq 'ConsoleHost')
-            		{
-            		Import-Module -Name Terminal-Icons
-           			Import-Module PSReadLine
-           			Set-PSReadLineOption -EditMode Windows
-					Set-PSReadLineOption -PredictionSource HistoryAndPlugin 
-					Set-PSReadLineOption -PredictionViewStyle ListView
-          			}
-
 
 
 # WSL2 For Linux
@@ -58,12 +37,6 @@ Has Support for individual Font's per Terminal, GIT, WSL and most other terminal
 *                            wsl --set-default-version 2
 
 *                            wsl -s [DISTRO] 2
-
-
-
-
-
-
 
 
 When using oh-my-posh in Windows and the WSL, know that you can share your theme with the WSL by pointing to a theme in your Windows user's home folder.
